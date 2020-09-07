@@ -4,4 +4,4 @@ Bazı sunucularda araçlar garajdan hasarlı çıktığı için tamir etme yerle
 
 Boş zamanımda yazdığım kullanışlı olduğunu düşündüğüm bir script.
 
-İstediğiniz yere config'den araç tamir noktası koyarsınız. O bölgeye gidip /tamiret yazdığınız zaman aracın kaputu açılır ve aracınız tamir olmaya başlar. Süresini gine config'den ayarlayabilirsiniz.
+İstediğiniz yerlere config'den araç tamir noktası koyarsınız. O bölgeye gidip /tamiret yazdığınız zaman aracın kaputu açılır ve aracınız tamir olmaya başlar. Süresini gine config'den ayarlayabilirsiniz.
