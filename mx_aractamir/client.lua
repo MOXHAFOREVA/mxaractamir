@@ -2,7 +2,7 @@ TriggerEvent('esx:getSharedObject', function(obj)
     ESX = obj
 end)
 
-local blipdurum = false
+local blipdurum = false 
 
 function kaput(source, args, raw)
     local ped = PlayerPedId()
